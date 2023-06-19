@@ -10,4 +10,5 @@ LEARNINGS:
 * Used different types of customized visualization(bar chart,donut chart,slicers etc)
 
 RESULTS:
+
 ![ecommerce store dashboard(Power-BI)](https://github.com/Rajasekhar342/power-BI_Project/assets/101009856/82bd33cf-53a1-47c7-8eed-78fe7e03f04a)
